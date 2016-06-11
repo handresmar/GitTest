@@ -9,7 +9,7 @@ comandos:
 
 Pasos para modificar un repositorio a través de una rama:
 
-	git checkout -b nombreRama           |crear y pasar a utilizar la rama nombreRama
+	git checkout -b nombreRama           | crear y pasar a utilizar la rama nombreRama
 	git add .                            | Agregar cambios
 	git commit -m "cambios en mirama"    | commeter los cambios
 	git checkout master		     | Ir al master
