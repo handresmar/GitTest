@@ -6,8 +6,8 @@ comandos:
 	git init 			     | Crear un repositorio nuevo
 	git pull			     | Actualizar repositorio local al commit mas nuevo
 	git merge branch		     | Fusionar ramas
-Pasos para modificar un repositorio a través de una rama:
 
+Pasos para modificar un repositorio a través de una rama:
 	git checkout -b nombreRama           |crear y pasar a utilizar la rama nombreRama
 	git add .                            | Agregar cambios
 	git commit -m "cambios en mirama"    | commeter los cambios
