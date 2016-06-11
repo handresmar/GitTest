@@ -2,7 +2,7 @@ procesador lm32 usado para la asignatura de digital 2
 <<<<<<< HEAD
 =======
 
-git checkout -b mirama -             |crea y pasa a utilizar la rama mirama
+git checkout -b mirama -                     |crea y pasa a utilizar la rama mirama
 
 Pasos para modificar un repositorio a través de una rama:
 
@@ -11,6 +11,6 @@ Pasos para modificar un repositorio a través de una rama:
 	git checkout master		     | Ir al master
 	git merge mirama		     | Realizar cambios en rama
 	git branch -d mirama	             | borrar rama
-	git push origin master		     | suir al master	
+	git push origin master		     | subir al master	
 
 >>>>>>> rama1
